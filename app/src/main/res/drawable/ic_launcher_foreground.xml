@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Eslabon 1 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4CD137"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:pathData="M40,38 L52,26 C58,20 68,20 74,26 C80,32 80,42 74,48 L66,56" />
+
+    <!-- Eslabon 2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:pathData="M68,70 L56,82 C50,88 40,88 34,82 C28,76 28,66 34,60 L42,52" />
+
+</vector>
